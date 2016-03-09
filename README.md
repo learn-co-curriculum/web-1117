@@ -6,9 +6,9 @@
 
 ### Notes and Objectives
 
-blah
+NEW
 
 ### Labs
 
-- [lab-1](http://www.github.com/learn-co-students/lab-1-web-1117)
+- [lab-72](http://www.github.com/learn-co-students/lab-72-web-1117)
 - [lab-100](http://www.github.com/learn-co-students/lab-100-web-1117)
