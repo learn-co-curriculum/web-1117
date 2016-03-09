@@ -1,16 +1,14 @@
-# 2017-01-02 00:00:00 UTC
+# Friday, 27 Jan 2017
 
 | Time | Activity |
 | --- | --- |
 | 09:00 | TODO |
-| 09:30 | Blogs |
-| 10:00 | Break |
-| 10:30 | lecture |
-| 12:00 | lunch |
-| 01:00 | lecture |
-| 03:00 | Labs |
 
 ### Notes and Objectives
 
-Testing
+blah
 
+### Labs
+
+- [lab-1](http://www.github.com/learn-co-students/lab-1-web-1117)
+- [lab-100](http://www.github.com/learn-co-students/lab-100-web-1117)
