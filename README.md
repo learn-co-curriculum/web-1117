@@ -1,20 +1,15 @@
-# Week 1, Day 4
+# Week 09, Day 1
 
-### Thursday, 05 Jan 2017
+### Tuesday, 10 Oct 2017
 
 | Time | Activity |
 | --- | --- |
 | 09:00 | TODO |
-| 09:30 | Blogs |
-| 10:00 | Break |
-| 10:15 | Lecture |
-| 12:00 | Lunch |
-| 01:00 | Lecture |
-| 03:00 | Labs |
+| 09:30 | BLOGS |
 
 ### Notes and Objectives
 
-TESTING NEW
+testing
 
 ### Labs
 
