@@ -1,4 +1,6 @@
-# Thursday, 05 Jan 2017
+# Week 1, Day 4
+
+### Thursday, 05 Jan 2017
 
 | Time | Activity |
 | --- | --- |
