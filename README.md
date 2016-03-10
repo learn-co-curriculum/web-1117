@@ -12,7 +12,7 @@
 
 ### Notes and Objectives
 
-This is the first schedule. Today's objectives are learning RUBY, learning how to make pizza. TESTING EDIT
+This is the first schedule. Today's objectives are learning RUBY, learning how to make pizza.
 
 ### Labs
 
