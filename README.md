@@ -1,22 +1,19 @@
-# Week 10, Day 1
+# Week 08, Day 1
 
-### Tuesday, 04 Jul 2017
+### Saturday, 06 May 2017
 
 | Time | Activity |
 | --- | --- |
-| 09:00 | TODO |
-| 09:30 | Blogs |
-| 10:00 | Break |
-| 10:15 | Lecture |
-| 01:00 | Lunch |
+| 09:00 | Blogs |
+| 09:30 | lecture |
 
 ### Notes and Objectives
 
-This is my new schedule. Learn stuff and things.
+Testing schedules controller refactor
 
 ### Labs
 
-- [hashketball](http://www.github.com/learn-co-students/hashketball-web-1117)
-- [lab-10000](http://www.github.com/learn-co-students/lab-10000-web-1117)
-- [meowing-cat](http://www.github.com/learn-co-students/meowing-cat-web-1117)
+- [lab-1](http://www.github.com/learn-co-students/lab-1-web-1117)
+- [lab-7](http://www.github.com/learn-co-students/lab-7-web-1117)
+- [oo-design-principles](http://www.github.com/learn-co-students/oo-design-principles-web-1117)
  [View Repo](http://www.github.com/learn-co-curriculum/web-1117)
