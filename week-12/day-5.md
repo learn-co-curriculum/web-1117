@@ -1,0 +1,18 @@
+# Week 12, Day 5
+
+### Tuesday, 12 Dec 2017
+
+| Time | Activity |
+| --- | --- |
+| 09:00 | TODO |
+| 09:30 | Blogs |
+
+### Notes and Objectives
+
+Testing that action view rendering works.
+
+### Labs
+
+- [lab-1](http://www.github.com/learn-co-students/lab-1-web-1117)
+- [flatiron-bnb-methods](http://www.github.com/learn-co-students/flatiron-bnb-methods-web-1117)
+- [hipp-tango](http://www.github.com/learn-co-students/hipp-tango-web-1117)
