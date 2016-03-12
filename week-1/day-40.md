@@ -1,17 +1,15 @@
 # Week 1, Day 40
 
-### Wednesday, 01 Feb 2017
+### Thursday, 01 Feb 2018
 
 | Time | Activity |
 | --- | --- |
-| 09:00 | TODO |
+| 10:00 | Lecture |
 
 ### Notes and Objectives
 
-test notes
+Here are some notes
 
 ### Labs
 
-- [lab-1](http://www.github.com/learn-co-students/lab-1-web-1117)
-- [barking-dog](http://www.github.com/learn-co-students/barking-dog-web-1117)
-- [lab-3](http://www.github.com/learn-co-students/lab-3-web-1117)
+- [lab-100](http://www.github.com/learn-co-students/lab-100-web-1117)
