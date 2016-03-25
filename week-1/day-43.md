@@ -1,18 +1,16 @@
 # Week 1, Day 43
 
-### Wednesday, 01 Feb 2017
+### Monday, 02 Jan 2017
 
 | Time | Activity |
 | --- | --- |
-| 09:00 | TODO |
+| 09:30 | Blogs |
 
 ### Notes
 
-test notes
+Here are some notes
 
 ### Labs
 
-- [lab-1](http://www.github.com/learn-co-students/lab-1-web-1117)
-- [barking-dog](http://www.github.com/learn-co-students/barking-dog-web-1117)
-- [lab-3](http://www.github.com/learn-co-students/lab-3-web-1117)
+- [lab-79](http://www.github.com/learn-co-students/lab-79-web-1117)
 
