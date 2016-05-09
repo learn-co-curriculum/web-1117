@@ -4,7 +4,7 @@
 
 | Time | Activity |
 | --- | --- |
-| 09:30 | Blogs |
+| 10:00 | Lecture |
 
 ### Notes
 
@@ -12,5 +12,5 @@ Here are some notes
 
 ### Labs
 
-- [lab-79](http://www.github.com/learn-co-students/lab-79-web-1117)
+- [lab-100](http://www.github.com/learn-co-students/lab-100-web-1117)
 
